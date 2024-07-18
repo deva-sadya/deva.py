@@ -1,0 +1,4 @@
+print('hellow')
+a=input('word:')
+if a==to:
+print('super')
